@@ -1,5 +1,9 @@
 # Sata Andagi
 
+
+![](img/osaka.jpg)
+
+
 A simple app to bring Osaka from Azumanga Daioh to your screen.
 
 To run the app from source, simply type:
